@@ -1,0 +1,33 @@
+/* Write your code here. */
+.app-container {
+  max-width: 1110px;
+  margin: auto;
+}
+.main-image {
+  width: 200px;
+  height: 300px;
+  border-radius: 8px;
+  border-width: 0px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.heading {
+  color: gray;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+}
+.para {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: grey;
+}
+
+.thumbnails {
+  width: 30px;
+  height: 30px;
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}

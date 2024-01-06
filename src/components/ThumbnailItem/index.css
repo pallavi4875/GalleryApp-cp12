@@ -1,0 +1,25 @@
+/* Write your code here. */
+.tab-item-container {
+  padding: 25px;
+}
+.tab-btn {
+  width: 30px;
+  height: 40px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+.active-tab-btn {
+  width: 30px;
+  height: 40px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+.ThumbNail {
+  width: 40px;
+  height: 40px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
